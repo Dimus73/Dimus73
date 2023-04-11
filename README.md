@@ -4,9 +4,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimus73&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 
 
